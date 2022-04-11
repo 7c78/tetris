@@ -2,7 +2,8 @@
     "private": true,
     "name": "pong",
     "scripts": {
-        "start": "webpack-dev-server"
+        "start": "webpack-dev-server",
+        "build": "webpack --config webpack.build.js"
     },
     "author": "7c78",
     "devDependencies": {

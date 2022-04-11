@@ -1,4 +1,4 @@
-# pong
+# tetris
 
 ## usage
 

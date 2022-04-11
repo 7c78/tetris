@@ -3,4 +3,4 @@ obj
 node_modules
 .ionide
 .fable
-
+build
